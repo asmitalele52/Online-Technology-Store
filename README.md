@@ -28,6 +28,7 @@ for Mongo DB - see file DB scripts for importing the data
 after cloning the project, go to project folder and execute the following command
 
 > npm install
+then
 > nodemon app.js
 
 
