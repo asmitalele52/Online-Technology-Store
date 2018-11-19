@@ -1,3 +1,5 @@
+Create a DB in mongoDB as onlineTechStore
+
 Paste all the json files into your mongo bin and execute the following commands
 
 mongoimport -d onlineTechStore -c categories cat.json
