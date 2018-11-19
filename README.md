@@ -17,9 +17,9 @@ http://mherman.org/blog/2013/11/11/user-authentication-with-passport-dot-js
 
 Install Express Generator
 execute the following command in your Terminal on Mac or Command Prompt on Windows
-
+```
 npm install -g express-generator
-
+```
 
 To get the application started -
 
